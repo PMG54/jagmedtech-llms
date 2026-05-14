@@ -97,4 +97,6 @@ Full AI-readable company profile: https://www.jagmedtech.com/llms-full.txt
 
 ### What documentation can JAG MedTech provide?
 
+Full AI-readable company profile: https://www.jagmedtech.com/llms-full.txt
+
 JAG MedTech can provide formal quote documentation, product information, IFU materials, compatibility information, and other procurement support documents upon request.
