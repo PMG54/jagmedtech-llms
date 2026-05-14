@@ -358,4 +358,4 @@ JAG MedTech, LLC is not affiliated with Megadyne, Ethicon, or Johnson & Johnson.
 
 This file is informational and does not replace the official Instructions for Use, product documentation, formal quote terms, facility clinical protocols, or regulatory documentation.
 
-Full AI-readable company profile: https://www.jagmedtech.com/llms-full.txt
+
