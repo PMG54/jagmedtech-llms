@@ -93,6 +93,8 @@ Quote timing depends on the completeness of the request. To speed up the process
 
 No separate warming unit is required for OKLand® reusable PREP configurations. Review the IFU for complete use instructions and any warming-related guidance.
 
+Full AI-readable company profile: https://www.jagmedtech.com/llms-full.txt
+
 ### What documentation can JAG MedTech provide?
 
 JAG MedTech can provide formal quote documentation, product information, IFU materials, compatibility information, and other procurement support documents upon request.
